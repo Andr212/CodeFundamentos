@@ -1,11 +1,6 @@
-public class AppOct15 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
+  public static void main(String[] args) {
         // Queremos que sea ascendiente
-        int arreglo [] = {7, 5, 9, 2, 10,42,30,2,44,11}
+        int arreglo [] = {7, 5, 9, 2, 10,42,30,2,44,11};
         
         int aux;
         //Orden nlogn
@@ -57,3 +52,5 @@ public class AppOct15 {
             System.out.print(lista[z]+".");
         }
         System.out.println();
+    
+}
